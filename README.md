@@ -11,44 +11,41 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
-## 🧑‍💻 About Me:
+## About Me:
 
-🔭 I'm currently working on **NLP, Machine Learning, Data Pipelines, and Frontend Web Development**
+I'm currently working on **NLP, Machine Learning, Data Pipelines, and Frontend Web Development**
 
-🌱 I'm currently learning **Advanced NLP Transformers, RAG Architectures, and Deep Learning**
+I'm currently learning **Advanced NLP Transformers, RAG Architectures, and Deep Learning**
 
-👯 I'm looking to collaborate on **Open-source ML/NLP projects & Web Development**
+I'm looking to collaborate on **Open-source ML/NLP projects & Web Development**
 
-🤝 I'm looking for help with **Expanding my network and discovering exciting opportunities**
+I'm looking for help with **Expanding my network and discovering exciting opportunities**
 
-💬 Ask me about **Python, NLP, Transformers, Scikit-Learn, YOLO, Dagster, React, Java, dbt**
+Ask me about **Python, NLP, Transformers, Scikit-Learn, YOLO, Dagster, React, Java, dbt**
 
-📫 How to reach me: **[tsegasolomon538@gmail.com](mailto:tsegasolomon538@gmail.com)**
+How to reach me: **[tsegasolomon538@gmail.com](mailto:tsegasolomon538@gmail.com)**
 
-⚡ Fun fact: **I find real dopamine when I lock in and drain my energy into work - kind of man who is addictive of keyboard!**
+Fun fact: **I find real dopamine when I lock in and drain my energy into work - kind of man who is addictive of keyboard!**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
-## 🔥 What I'm Building Right Now
+## What I'm Building Right Now
 
 <table>
   <tr>
-    <td>🧠</td>
     <td><strong>RAG-powered Q&A System</strong> — Building intelligent document retrieval with LangChain & vector databases</td>
   </tr>
   <tr>
-    <td>📝</td>
     <td><strong>Advanced Text Summarization</strong> — Fine-tuning T5/BART/Pegasus models with ROUGE evaluation</td>
   </tr>
   <tr>
-    <td>🌐</td>
     <td><strong>Full-Stack ML Apps</strong> — Deploying ML models with FastAPI backends & React frontends</td>
   </tr>
 </table>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
-## 🌐 Socials:
+## Socials:
 
 <p align="left">
   <a href="https://github.com/soltsega" target="_blank">
@@ -79,7 +76,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=soltsega&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
@@ -87,7 +84,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
-## 💻 Tech Stack:
+## Tech Stack:
 
 #### Languages
 <p align="left">
@@ -138,7 +135,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
-## 📊 GitHub Stats:
+## GitHub Stats:
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=soltsega&theme=tokyonight&hide_border=true&border_radius=10&show_icons=true&count_private=true" alt="Solomon's GitHub Stats" />
@@ -159,10 +156,10 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <details open>
-<summary><b>🧠 NLP & AI</b></summary>
+<summary><b>NLP & AI</b></summary>
 <br/>
 
 | Project | Description |
@@ -176,7 +173,7 @@
 </details>
 
 <details open>
-<summary><b>📈 Data Science & ML</b></summary>
+<summary><b>Data Science & ML</b></summary>
 <br/>
 
 | Project | Description |
@@ -188,7 +185,7 @@
 </details>
 
 <details open>
-<summary><b>⚙️ Data Engineering</b></summary>
+<summary><b>Data Engineering</b></summary>
 <br/>
 
 | Project | Description |
@@ -198,7 +195,7 @@
 </details>
 
 <details open>
-<summary><b>🌐 Web Development & Software Engineering</b></summary>
+<summary><b>Web Development & Software Engineering</b></summary>
 <br/>
 
 | Project | Description |
@@ -211,7 +208,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
-## 💡 Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
