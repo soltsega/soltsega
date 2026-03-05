@@ -79,7 +79,7 @@ Fun fact: **I find real dopamine when I lock in and drain my energy into work - 
 ## GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soltsega&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+<img width="162" height="103" alt="image" src="https://github.com/user-attachments/assets/0efea2e9-411c-4002-92d1-a78418d3cae6" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
