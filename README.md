@@ -5,27 +5,50 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=NLP+%26+Transformer+Models+%7C+Text+%26+Language+AI;Machine+Learning+%7C+Deep+Learning;Data+Science+%7C+Sentiment+Analysis;QA+Systems+%7C+Summarization;RAG+Architectures+%7C+LangChain+%7C+LLMs;Data+Pipelines+%7C+Feature+Engineering+%7C+MLOps;React+%7C+FastAPI+%7C+Full-Stack+Development;Turning+Raw+Data+Into+Actionable+Intelligence" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=soltsega&color=70A5FD&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
 
-## About Me:
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
-I'm currently working on **NLP, Machine Learning, Data Pipelines, and Frontend Web Development**
+## 🧑‍💻 About Me:
 
-I'm currently learning **Advanced NLP Transformers, RAG Architectures, and Deep Learning**
+🔭 I'm currently working on **NLP, Machine Learning, Data Pipelines, and Frontend Web Development**
 
-I'm looking to collaborate on **Open-source ML/NLP projects & Web Development**
+🌱 I'm currently learning **Advanced NLP Transformers, RAG Architectures, and Deep Learning**
 
-I'm looking for help with **Expanding my network and discovering exciting opportunities**
+👯 I'm looking to collaborate on **Open-source ML/NLP projects & Web Development**
 
-Ask me about **Python, NLP, Transformers, Scikit-Learn, YOLO, Dagster, React, Java, dbt**
+🤝 I'm looking for help with **Expanding my network and discovering exciting opportunities**
 
-How to reach me: **[tsegasolomon538@gmail.com](mailto:tsegasolomon538@gmail.com)**
+💬 Ask me about **Python, NLP, Transformers, Scikit-Learn, YOLO, Dagster, React, Java, dbt**
 
-Fun fact: **I find real dopamine when I lock in and drain my energy into work - kind of man who is addictive of keyboard!**
+📫 How to reach me: **[tsegasolomon538@gmail.com](mailto:tsegasolomon538@gmail.com)**
 
----
+⚡ Fun fact: **I find real dopamine when I lock in and drain my energy into work - kind of man who is addictive of keyboard!**
 
-## Socials:
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
+
+## 🔥 What I'm Building Right Now
+
+<table>
+  <tr>
+    <td>🧠</td>
+    <td><strong>RAG-powered Q&A System</strong> — Building intelligent document retrieval with LangChain & vector databases</td>
+  </tr>
+  <tr>
+    <td>📝</td>
+    <td><strong>Advanced Text Summarization</strong> — Fine-tuning T5/BART/Pegasus models with ROUGE evaluation</td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td><strong>Full-Stack ML Apps</strong> — Deploying ML models with FastAPI backends & React frontends</td>
+  </tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
+
+## 🌐 Socials:
 
 <p align="left">
   <a href="https://github.com/soltsega" target="_blank">
@@ -43,7 +66,7 @@ Fun fact: **I find real dopamine when I lock in and drain my energy into work - 
   <a href="https://www.leetcode.com/soltse" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="[https://www.hackerrank.com/soltseg](https://www.hackerrank.com/profile/tsegasolomon538)a" target="_blank">
+  <a href="https://www.hackerrank.com/profile/tsegasolomon538" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
   <a href="mailto:tsegasolomon538@gmail.com" target="_blank">
@@ -54,9 +77,17 @@ Fun fact: **I find real dopamine when I lock in and drain my energy into work - 
   </a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
-## Tech Stack:
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=soltsega&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
+
+## 💻 Tech Stack:
 
 #### Languages
 <p align="left">
@@ -105,42 +136,91 @@ Fun fact: **I find real dopamine when I lock in and drain my energy into work - 
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
-## GitHub Stats:
+## 📊 GitHub Stats:
 
 <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=soltsega&theme=tokyonight&hide_border=true&border_radius=10&show_icons=true&count_private=true" alt="Solomon's GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=soltsega&theme=tokyonight&hide_border=true&border_radius=10" alt="Solomon's GitHub Streak" />
 </div>
 
 <br/>
 
----
+<div align="center">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soltsega&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=8" alt="Top Languages" />
+</div>
 
-## Featured Projects
+<br/>
 
-### NLP & AI
-*   **[Sentiment Analysis on Product Reviews](https://github.com/soltsega/Natural-Langugage-Processing---Sentiment-Analysis-on-Product-Reviews)**: ML pipeline classifying product reviews as positive/negative using NLTK, TF-IDF, Logistic Regression & Naive Bayes.
-*   **[News Category Classification (NLP)](https://github.com/soltsega/Natural-Language-Processing---News-Category-Classification)**: NLP pipeline to classify AG News articles into World, Sports, Business & Sci/Tech using Scikit-learn.
-*   **[Question Answering with Transformers](https://github.com/soltsega/Question-Answering-with-Transformers_NLP)**: Transformer-based QA system leveraging HuggingFace models for extractive question answering.
-*   **[Resume Screening Using NLP](https://github.com/soltsega/Resume_Screening_Using_NLP)**: Automated resume screening system using Natural Language Processing.
-*   **[Text Summarization with Transformers](https://github.com/soltsega/text-summarization)**: Text summarizer using pre-trained encoder-decoder models (T5/BART/Pegasus) with ROUGE evaluation.
+<div align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=soltsega&theme=tokyo-night&hide_border=true&area=true&custom_title=Solomon's%20Contribution%20Graph" alt="Activity Graph" />
+</div>
 
-### Data Science & ML
-*   **[Financial Inclusion Forecasting](https://github.com/soltsega/Forecasting-Financial-Inclusion-in-Ethiopia)**: Time-series forecasting system tracking Ethiopia's digital financial transformation.
-*   **[Change Point Analysis & Statistical Modeling](https://github.com/soltsega/Change-Point-Analysis-and-Statistical-Modeling-of-Time-Series-Data)**: Detecting changes and associating causes on time series data.
-*   **[Insurance Analysis (KAIM)](https://github.com/soltsega/KIAM_Week_3_Insurance_analysis)**: Data analysis and statistical modeling on insurance data.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
-### Data Engineering
-*   **[End-to-End Telegram Data Pipeline](https://github.com/soltsega/An-end-to-end-telegram-data-pipeline)**: Full pipeline using dbt for transformation, Dagster for orchestration, and YOLOv8 for data enrichment.
+## 🚀 Featured Projects
 
-### Web Development & Software Engineering
-*   **[Arat Kilo Community Hub](https://github.com/soltsega/Arat-Kilo-Gbi-Gubae-Community-Hub)**: Python-powered pipeline with glassmorphism dashboard for Telegram quiz results & community rankings.
-*   **[Universal Chronos Bridge](https://github.com/soltsega/-The-Universal-Chronos-Bridge)**: Unified C++ synchronization engine supporting Gregorian, Ethiopian, Islamic Hijri & Sidama calendars.
-*   **[Portfolio Website](https://github.com/soltsega/My_Portfolio)**: Personal portfolio site showcasing projects and skills.
+<details open>
+<summary><b>🧠 NLP & AI</b></summary>
+<br/>
 
----
+| Project | Description |
+|---------|-------------|
+| **[Sentiment Analysis on Product Reviews](https://github.com/soltsega/Natural-Langugage-Processing---Sentiment-Analysis-on-Product-Reviews)** | ML pipeline classifying product reviews as positive/negative using NLTK, TF-IDF, Logistic Regression & Naive Bayes |
+| **[News Category Classification](https://github.com/soltsega/Natural-Language-Processing---News-Category-Classification)** | NLP pipeline to classify AG News articles into World, Sports, Business & Sci/Tech using Scikit-learn |
+| **[Question Answering with Transformers](https://github.com/soltsega/Question-Answering-with-Transformers_NLP)** | Transformer-based QA system leveraging HuggingFace models for extractive question answering |
+| **[Resume Screening Using NLP](https://github.com/soltsega/Resume_Screening_Using_NLP)** | Automated resume screening system using Natural Language Processing |
+| **[Text Summarization with Transformers](https://github.com/soltsega/text-summarization)** | Text summarizer using pre-trained encoder-decoder models (T5/BART/Pegasus) with ROUGE evaluation |
+
+</details>
+
+<details open>
+<summary><b>📈 Data Science & ML</b></summary>
+<br/>
+
+| Project | Description |
+|---------|-------------|
+| **[Financial Inclusion Forecasting](https://github.com/soltsega/Forecasting-Financial-Inclusion-in-Ethiopia)** | Time-series forecasting system tracking Ethiopia's digital financial transformation |
+| **[Change Point Analysis & Statistical Modeling](https://github.com/soltsega/Change-Point-Analysis-and-Statistical-Modeling-of-Time-Series-Data)** | Detecting changes and associating causes on time series data |
+| **[Insurance Analysis (KAIM)](https://github.com/soltsega/KIAM_Week_3_Insurance_analysis)** | Data analysis and statistical modeling on insurance data |
+
+</details>
+
+<details open>
+<summary><b>⚙️ Data Engineering</b></summary>
+<br/>
+
+| Project | Description |
+|---------|-------------|
+| **[End-to-End Telegram Data Pipeline](https://github.com/soltsega/An-end-to-end-telegram-data-pipeline)** | Full pipeline using dbt for transformation, Dagster for orchestration, and YOLOv8 for data enrichment |
+
+</details>
+
+<details open>
+<summary><b>🌐 Web Development & Software Engineering</b></summary>
+<br/>
+
+| Project | Description |
+|---------|-------------|
+| **[Arat Kilo Community Hub](https://github.com/soltsega/Arat-Kilo-Gbi-Gubae-Community-Hub)** | Python-powered pipeline with glassmorphism dashboard for Telegram quiz results & community rankings |
+| **[Universal Chronos Bridge](https://github.com/soltsega/-The-Universal-Chronos-Bridge)** | Unified C++ synchronization engine supporting Gregorian, Ethiopian, Islamic Hijri & Sidama calendars |
+| **[Portfolio Website](https://github.com/soltsega/My_Portfolio)** | Personal portfolio site showcasing projects and skills |
+
+</details>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
 <div align="center">
   <b>⭐ If you like my projects, give them a star! ⭐</b>
+  <br/><br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=70A5FD&height=100&section=footer" alt="footer" width="100%" />
 </div>
