@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Solomon Tsega</h1>
-<h3 align="center">Data Scientist & ML Engineer | NLP Enthusiast | Frontend Web Developer</h3>
+<h3 align="center">ML Engineer & NLP Specialist | Data Scientist | Deep Learning Practitioner | Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=500&lines=NLP+%7C+Machine+Learning+%7C+Web+Dev;Transforming+Data+Into+Insights" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=NLP+%26+Transformer+Models+%7C+Text+%26+Language+AI;Machine+Learning+%7C+Deep+Learning+%7C+Data+Science;Sentiment+Analysis+%7C+QA+Systems+%7C+Summarization;RAG+Architectures+%7C+LangChain+%7C+LLMs;Data+Pipelines+%7C+Feature+Engineering+%7C+MLOps;React+%7C+FastAPI+%7C+Full-Stack+Development;Turning+Raw+Data+Into+Actionable+Intelligence" alt="Typing SVG" />
 </p>
 
 ---
