@@ -43,7 +43,7 @@ Fun fact: **I find real dopamine when I lock in and drain my energy into work - 
   <a href="https://www.leetcode.com/soltse" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://www.hackerrank.com/soltsega" target="_blank">
+  <a href="[https://www.hackerrank.com/soltseg](https://www.hackerrank.com/profile/tsegasolomon538)a" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
   <a href="mailto:tsegasolomon538@gmail.com" target="_blank">
