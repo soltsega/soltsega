@@ -2,7 +2,7 @@
 <h3 align="center">ML Engineer & NLP Specialist | Data Scientist | Deep Learning Practitioner | Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=NLP+%26+Transformer+Models+%7C+Text+%26+Language+AI;Machine+Learning+%7C+Deep+Learning; Data+Science+%7C+Sentiment+Analysis; QA+Systems+%7C+Summarization;RAG+Architectures+%7C+LangChain+%7C+LLMs;Data+Pipelines+%7C+Feature+Engineering+%7C+MLOps;React+%7C+FastAPI+%7C+Full-Stack+Development;Turning+Raw+Data+Into+Actionable+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=NLP+%26+Transformer+Models+%7C+Text+%26+Language+AI;Machine+Learning+%7C+Deep+Learning;Data+Science+%7C+Sentiment+Analysis;QA+Systems+%7C+Summarization;RAG+Architectures+%7C+LangChain+%7C+LLMs;Data+Pipelines+%7C+Feature+Engineering+%7C+MLOps;React+%7C+FastAPI+%7C+Full-Stack+Development;Turning+Raw+Data+Into+Actionable+Intelligence" alt="Typing SVG" />
 </p>
 
 ---
