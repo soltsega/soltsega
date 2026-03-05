@@ -5,11 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=500&lines=NLP+%7C+Machine+Learning+%7C+Web+Dev;Transforming+Data+Into+Insights" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soltsega&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/soltsega?label=Followers&style=social" alt="Followers" />
-</p>
-
 ---
 
 ## About Me:
@@ -42,10 +37,10 @@ Fun fact: **I find real dopamine when I lock in and drain my energy into work - 
   <a href="https://t.me/Goahdsol16" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://soltsega.github.io" target="_blank">
+  <a href="https://soltsega.github.io/My_Portfolio/#projects" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
   </a>
-  <a href="https://www.leetcode.com/soltsega" target="_blank">
+  <a href="https://www.leetcode.com/soltse" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
   <a href="https://www.hackerrank.com/soltsega" target="_blank">
