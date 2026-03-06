@@ -208,6 +208,8 @@ Fun fact: **I find real dopamine when I lock in and drain my energy into work - 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20you%20torture%20the%20data%20long%20enough%2C%20It%20will%20confess%20to%20anything&author=Ronald%20Coase" alt="Dev Quote 1" />
   <br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%20are%20also%20the%20murderer.&author=Filipe%20Fortes" alt="Dev Quote 2" />
+  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20debugging%20is%20the%20process%20of%20removing%20software%20bugs%2C%20then%20programming%20must%20be%20the%20process%20of%20putting%20them%20in.&author=Edsger%20W.%20Dijkstra" alt="Dev Quote 3" />
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
