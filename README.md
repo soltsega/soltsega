@@ -205,7 +205,7 @@ Fun fact: **I find real dopamine when I lock in and drain my energy into work - 
 ## Dev Quotes
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20you%20torture%20the%20data%20long%20enough%2C%20I%20will%20confess%20to%20anything&author=Ronald%20Coase" alt="Dev Quote 1" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=If%20you%20torture%20the%20data%20long%20enough%2C%20It%20will%20confess%20to%20anything&author=Ronald%20Coase" alt="Dev Quote 1" />
   <br/>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Debugging%20is%20like%20being%20the%20detective%20in%20a%20crime%20movie%20where%20you%20are%20also%20the%20murderer.&author=Filipe%20Fortes" alt="Dev Quote 2" />
 </div>
