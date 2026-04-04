@@ -54,7 +54,7 @@ Fun fact: **I find real dopamine when I lock in and drain my energy into work - 
   <a href="https://linkedin.com/in/solomontsega" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://t.me/Goahdsol16" target="_blank">
+  <a href="https://t.me/CompileTimeThoughts" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://soltsega.github.io/My_Portfolio/#projects" target="_blank">
