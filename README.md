@@ -23,9 +23,7 @@ I'm looking for help with **Expanding my network and discovering exciting opport
 
 Ask me about **Python, NLP, Transformers, Scikit-Learn, YOLO, Dagster, React, Java, dbt**
 
-How to reach me: **[tsegasolomon538@gmail.com](mailto:tsegasolomon538@gmail.com)**
-
->>**I find real dopamine when I lock in and drain my energy into work - kind of man who is addictive of keyboard!**
+  >**I find real dopamine when I lock in and drain my energy into work - kind of man who is addictive of keyboard!**
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
