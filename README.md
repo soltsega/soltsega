@@ -11,7 +11,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
-## About Me:
+## About Me
 
 I'm currently working on **NLP, Machine Learning, Data Pipelines, and Frontend Web Development**
 
@@ -45,7 +45,7 @@ Fun fact: **I find real dopamine when I lock in and drain my energy into work - 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
-## Socials:
+## Socials
 
 <p align="left">
   <a href="https://github.com/soltsega" target="_blank">
@@ -84,7 +84,7 @@ Fun fact: **I find real dopamine when I lock in and drain my energy into work - 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
-## Tech Stack:
+## Tech Stack
 
 #### Languages
 <p align="left">
@@ -135,7 +135,7 @@ Fun fact: **I find real dopamine when I lock in and drain my energy into work - 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" alt="divider" />
 
-## GitHub Stats:
+## GitHub Stats
 
 <div align="center">
   <img width="49%" src="https://streak-stats.demolab.com?user=soltsega&theme=tokyonight&hide_border=true&v=1.2" alt="Solomon's GitHub Streak" />
